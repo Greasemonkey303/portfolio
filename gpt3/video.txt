@@ -2,4 +2,7 @@ https://www.youtube.com/watch?v=F627pKNUCVQ&t=14853s
 
 time
 
-25:00
+48:34
+
+navbar.css
+

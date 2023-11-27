@@ -1,10 +1,10 @@
 import React from 'react'
 import './features.css';
 
-const Features = () => {
+const Feature = () => {
   return (
     <div>Features</div>
   )
 }
 
-export default Features
+export default Feature
